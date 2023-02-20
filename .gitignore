@@ -1,0 +1,18 @@
+# Node.js build artifacts
+.next/
+
+# Dependence installed by npm or yarn
+node_modules/
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cache files
+.npm/
+.yarn/
